@@ -1,16 +1,24 @@
-## Hi there 👋
+### 🔭 I’m currently working on 
+- I work at a factory as the only maintainer of a website built with ReactJS. I'm working on building my understanding of react and upgrading libraries used.
 
-<!--
-**BigBadTubaDude/BigBadTubaDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I want to upgrade: 
+React 18 -> 19
+CRA -> Vite
 
-Here are some ideas to get you started:
+- At home I'm working on integrating Home Assistant with my household activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Spanish
+- Algebra
+### 👯 I’m looking to collaborate on 
+- climate/social solutions
+### 🤔 I’m looking for help with 
+- github
+### 💬 Ask me about my 
+- lobotomy
+### 📫 How to reach me
+- bigbadtubadude@gmail.com
+### 😄 Pronouns
+  - he/him/his
+### ⚡ Fun fact
+- West Coast swing dancer and tuba player
