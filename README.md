@@ -14,8 +14,6 @@ CRA -> Vite
 - climate/social solutions
 ### 🤔 I’m looking for help with 
 - github
-### 💬 Ask me about my 
-- lobotomy
 ### 📫 How to reach me
 - bigbadtubadude@gmail.com
 ### 😄 Pronouns
